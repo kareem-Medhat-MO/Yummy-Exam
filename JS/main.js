@@ -149,7 +149,7 @@ function displayMealDetails(meal) {
   // --------------------------------------------------inner html--------------------------------------------------
 
   let container = `
-  <div class="bg-body-tertiary rounded-3 shadow p-5 overflow-auto">
+  <div class="bg-body-tertiary rounded-3 shadow p-lg-5 p-2 overflow-auto">
   <i
     id="closeBtn"
     class="fa-solid fa-xmark p-3 rounded-3 shadow text-dark fs-5"
